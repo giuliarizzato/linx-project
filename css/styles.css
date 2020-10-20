@@ -1,0 +1,35 @@
+/* Gerais */
+body {
+
+height: 100%;
+background-image: url("https://i.ibb.co/dtkVsY6/hotsite-linx-Postos-home.jpg");
+
+
+/* Tamanho total */
+height: 100%; 
+
+/* Background e Navbar */
+
+background-position: relative;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0;
+font-size: 1rem;
+font-weight: normal;
+line-height: 1.5;
+color: #212529;
+text-align: center;
+background-color:transparent;
+padding: 50px;
+}
+
+.img-fluid {
+max-width: 100%0;
+height: auto;
+} 
+
+/* Barra de Navegação */
+header, .navbar {
+    background-color: transparent;
+    
+}
